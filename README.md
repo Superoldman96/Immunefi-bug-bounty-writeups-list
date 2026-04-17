@@ -148,3 +148,10 @@
 | Not Paid     | Critical | [RAI](https://www.trust-security.xyz/post/returndata-bombing-rai-s-liquidation-engine-a-critical-bug-worth-0) | [Trust Security](https://www.trust-security.xyz/team) |
 | -     | High | [dHEDGE](https://x.com/s4muraii77/status/2012140371938070888) | [samuraii77](https://x.com/s4muraii77) |
 | 200k     | Critical | [zkSync Lite](https://x.com/Ehsan1579/status/2013482485175226811) | [Ehsan](https://x.com/Ehsan1579) |
+| -     | Critical | [Gnosis](https://x.com/therealgregoAI/status/2030923482159059433) | [GregoAI](https://x.com/therealgregoAI) |
+| -     | Critical | [Gnosis](https://x.com/therealgregoAI/status/2029144265800970664) | [GregoAI](https://x.com/therealgregoAI) |
+| -     | Low | [Uniswap](https://x.com/therealgregoAI/status/2044063044032995489) | [GregoAI](https://x.com/therealgregoAI) |
+| -     | Critical | [Yearn](https://x.com/therealgregoAI/status/2028445384461205770) | [GregoAI](https://x.com/therealgregoAI) |
+| -     | Critical | [Reserve](https://x.com/reserveprotocol/status/2027121090343174359) | [GregoAI](https://x.com/therealgregoAI) |
+| -     | Low | [Uniswap](https://x.com/therealgregoAI/status/2025848523724312609) | [GregoAI](https://x.com/therealgregoAI) |
+| -     | Critical | [Balancer](https://x.com/therealgregoAI/status/2013922384219177085) | [GregoAI](https://x.com/therealgregoAI) |
