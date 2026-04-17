@@ -155,3 +155,4 @@
 | -     | Critical | [Reserve](https://x.com/reserveprotocol/status/2027121090343174359) | [GregoAI](https://x.com/therealgregoAI) |
 | -     | Low | [Uniswap](https://x.com/therealgregoAI/status/2025848523724312609) | [GregoAI](https://x.com/therealgregoAI) |
 | -     | Critical | [Balancer](https://x.com/therealgregoAI/status/2013922384219177085) | [GregoAI](https://x.com/therealgregoAI) |
+| 50K     | Critical | [Injective](https://x.com/al_f4lc0n/status/2033110168045568434) | [f4lc0n](https://x.com/al_f4lc0n) |
